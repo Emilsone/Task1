@@ -1,0 +1,55 @@
+#body{
+    background-color: black;
+    color:white;
+}
+#get{
+font-weight: bolder;
+font-size: 30px;
+text-align: center;
+}
+#for{
+text-align: center;
+}
+.form-input{
+    width:500px;
+    height:30px;
+    border-radius:5px;
+    padding:10px;
+    border:3px solid black; 
+    margin:20px;
+
+} 
+.submit{
+ width:500px;
+ height:20px;
+ border-radius:5px;
+ padding:10px;
+ border:2px  solid black;
+ margin:10px;
+  background: #000;
+}
+#login{
+    text-align: center;
+}
+.home{
+    background-color:white;
+    width:90px;
+
+}
+#footer2{
+    background-color:#660000;
+    color:white;
+    height:50px;
+    width:109%;
+}
+#copy{
+    text-align: left;
+    margin-top: -20px;
+    padding-top: 20px;
+}
+#in{
+    font-size: 30px;
+    padding-top: 50px;
+    margin-left: 50px;
+
+}

@@ -1,0 +1,50 @@
+#image{
+width: 43%;
+height:43%;
+}
+#agric{
+text-align: center;
+}
+#mission{
+    margin-left:573px;
+    margin-top: -285px;
+}
+#unlock{
+    margin-left: 573px;
+    text-align: justify;
+}
+#vission{
+margin-top: 80px;
+
+}
+#value{
+    text-align: justify;
+}
+#looker{
+width: 49%;
+height:248px;
+margin-left:599px;
+margin-top: -285px;
+}
+li{
+    display: inline;
+    padding:20px;
+    font-size: 19px;
+}
+#nav{
+    background-color:black;
+    border-radius: 15px;
+    height:50px;
+    width: 89%px;
+    margin-left: 16px;
+    margin-top: 0px;
+
+}
+ul{
+    float: left;
+}
+li a{
+    color:white;
+    text-decoration: none;
+    padding-top:-20px;
+}

@@ -1,0 +1,126 @@
+#section1{
+background-color: rgb(32, 32, 32);
+width:101%;
+height:200px;
+background-repeat: no-repeat;
+}
+#agric{
+text-align:center;
+font-weight: bolder;
+font-size: 67px;
+position: absolute;
+top: 6%;
+left:50%;
+transform:translateX(-50%)translateY(-50%);
+color: green;
+}
+#pride{
+    text-align:center;
+    font-weight: bolder;
+    font-size: 23px;
+    position: absolute;
+    top: 17%;
+    left:50%;
+    transform:translateX(-50%)translateY(-50%);
+    color: green;
+}
+li{
+    display: inline;
+    padding:20px;
+    font-size: 27px;
+}
+#nav{
+    background-color:green;
+    border-radius: 15px;
+    height:70px;
+    width: 89%px;
+    margin-left: 16px;
+    margin:20px;
+
+}
+ul{
+    float: left;
+}
+li a{
+    color:white;
+    text-decoration: none;
+}
+li a:hover{
+ background: #000;
+}
+.image{
+background-image: url("look5.jpg");
+background-size: cover;
+width: 100%;
+height:900px;
+background-repeat: no-repeat;
+padding: 0px;
+margin: 0px;
+opacity: 0.8;
+filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+#concept{
+text-align: center;
+font-weight: bolder;
+font-size: 40px;
+}
+#text{
+text-align: center;
+}
+.images{
+display: grid;
+grid-template-columns:  400px 400px 400px 400px;
+grid-column-gap:72px;
+width:29px;
+height:70px;
+}
+#images3{
+    display: grid;
+    grid-template-columns:  300px 300px 300px 300px;
+    grid-column-gap:132px;
+    width:400px;
+    height:400px; 
+}
+.texter{
+text-align: center;
+font-weight: bolder;
+font-size: 37px;
+}
+#pictures2{
+    display: inline-block;
+    width:130%;
+    height:74%;
+    margin: 42px;
+    border-radius: 2px solid black;
+}
+#pictures2:hover{
+border: 1px solid black;
+}
+#pictures:hover{
+border: 1px solid black;
+}
+.active{
+background-color: green;
+}
+#footer{
+    background-color: black;
+    color:rgb(252, 251, 250);
+    height:80px;
+    width:109%;
+    font-size: 16px;
+    font-weight: bolder;
+    padding-top: 295px;
+    margin-top: -34px;
+}
+#your{
+    width:36px;
+    height:36px;
+}
+#poper:hover{
+    border: 1px solid black;
+}
+.allofabove{
+    display: grid;
+    grid-template-columns: 340px 340px 340px 340px;
+    grid-column-gap: 20px;
+}
